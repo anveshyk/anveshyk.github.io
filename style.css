@@ -45,7 +45,7 @@ body {
     border: 0em solid white;
     border-radius: 0em;
     transition-timing-function: ease-in-out;
-    transition-duration: 0.15s;
+    transition-duration: 0.2s;
 }
 
 .link:hover {
